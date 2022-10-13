@@ -1,1 +1,1 @@
-Loan repayment status classification.
+Loan repayment status binary classification.
